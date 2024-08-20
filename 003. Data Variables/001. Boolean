@@ -1,0 +1,9 @@
+a = True                      #  here we define our boolean variable
+
+print(a)
+
+print(type(a))                # this is used to print the type of variable
+
+
+# True
+# <class 'bool'>
