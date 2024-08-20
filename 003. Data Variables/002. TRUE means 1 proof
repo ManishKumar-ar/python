@@ -1,0 +1,11 @@
+a = True
+
+print(a)
+
+print(type(a))         // here we see its class name
+print(int(a))           /// here we converse it into the int and see its value
+
+
+# True
+# <class 'bool'>
+#1
